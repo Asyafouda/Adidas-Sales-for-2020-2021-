@@ -26,21 +26,28 @@ Other months with relatively high sales figures include June, August, and Decemb
 
 ### *(2)* Varying Profits:
 -Different retailers have varying levels of profitability, with West Gear and Foot Locker having the highest profits.
+
 -Market Performance: West Gear and Foot Locker demonstrate strong market presence and successful sales of Adidas products.
+
 -E-commerce Impact: Amazon, being an e-commerce giant, has relatively lower profitability compared to other retailers.
 
 #### Suggestions: 
 - Collaborations: Explore collaborations with successful retailers like West Gear and Foot Locker to create exclusive product lines or marketing campaigns.
+
 - Strengthen Partnerships: Assess partnerships with retailers like Kohl's and Walmart to identify areas for improvement and enhance sales performance.
 
 ### *(3)* Sales Disparity:
 -Sales vary across different states, with New York, California, and Florida having higher sales figures, while Iowa, Minnesota, and Nebraska have lower sales.
+
 -Market Potential: New York, California, and Florida show strong market potential due to their higher sales figures.
+
 -Growth Opportunities: Iowa, Minnesota, and Nebraska present opportunities for growth due to their lower sales figures.
 
 #### Suggestions: 
 -Focus on High-Sales States: Concentrate resources and marketing efforts on New York, California, and Florida to further penetrate these markets.
+
 -Tailored Strategies for Low-Sales States: Develop specific strategies for Iowa, Minnesota, and Nebraska to increase sales in these states.
+
 -Understand Customer Preferences: Gain insights into consumer preferences in each state to personalize marketing approaches and meet their specific needs.
 
 ## Dashboard
